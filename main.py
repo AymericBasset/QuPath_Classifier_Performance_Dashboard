@@ -1,5 +1,5 @@
-import streamlit as st
 import sklearn
+import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.metrics import roc_curve, auc, precision_recall_curve, classification_report, confusion_matrix
