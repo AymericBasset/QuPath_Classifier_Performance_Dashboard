@@ -1,5 +1,5 @@
 import sklearn
 import streamlit as st
 
-st.set_page_config(layout='wide')
-st.title("Classifier Performance Evaluation")
+# st.set_page_config(layout='wide')
+# st.title("Classifier Performance Evaluation")
