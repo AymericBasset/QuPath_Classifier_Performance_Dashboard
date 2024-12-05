@@ -1,5 +1,4 @@
 
-
 import sklearn
 import pandas as pd
 import numpy as np
@@ -8,9 +7,6 @@ import plotly.graph_objects as go
 import plotly.figure_factory as ff
 from scipy.stats import chi2_contingency
 import streamlit as st
-
-# Set Streamlit page configuration for wider layout
-st.set_page_config(layout="wide")
 
 # Hardcoded column and class names
 TRAIN_TEST_COLUMN = 'Parent'
